@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Efe Oral</h1>
 
-<h3 align="center">A nerdy electrical electronics engineer with learning with passion</h3>
+<h3 align="center">A BSc. electrical electronics engineer and MSc. computer science with learning and building passion</h3>
 
 ![f](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
 
-- 🔭 Watch my game's [trailer](https://www.youtube.com/watch?v=s3aD69NZztM) that we builf for Google's Unity bootcamp.
+- 🔭 Watch my game's [trailer](https://www.youtube.com/watch?v=s3aD69NZztM) that we builf for Google's Unity bootcamp
 
 - 🌱 I’m currently building games with **Unity game engine**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/efe oral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efe oral" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/efe-oral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efe oral" height="30" width="40" /></a>
 <a href="https://instagram.com/efe oral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efe oral" height="30" width="40" /></a>
 <a href="https://discord.gg/#6115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6115" height="30" width="40" /></a>
 </p>
