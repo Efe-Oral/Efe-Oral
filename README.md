@@ -5,11 +5,11 @@
 ![f](https://c.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif)
 
 
-- 🔭 I’m currently working on [Unity game development](https://www.youtube.com/watch?v=s3aD69NZztM)
+- 🔭 Watch my game's [trailer](https://www.youtube.com/watch?v=s3aD69NZztM) that we builf for Google's Unity bootcamp.
 
-- 🌱 I’m currently learning **Unity game engine, programming and project making**
+- 🌱 I’m currently building games with **Unity game engine**
 
-- 👯 I’m looking to collaborate on [Game and Application Academy](https://oyunveuygulamaakademisi.com/)
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/efe-oral/)
 
 - 📫 How to reach me **efeoral@gmail.com**
 
